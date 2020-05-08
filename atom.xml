@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
   
-  
+  <subtitle>bilibili</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://muandhu.github.io/"/>
+  <link href="bilibili.cn/"/>
   <updated>2020-05-07T18:53:50.378Z</updated>
-  <id>http://muandhu.github.io/</id>
+  <id>bilibili.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>74楼</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://muandhu.github.io/2020/05/08/hello-world/"/>
-    <id>http://muandhu.github.io/2020/05/08/hello-world/</id>
+    <link href="bilibili.cn/2020/05/08/hello-world/"/>
+    <id>bilibili.cn/2020/05/08/hello-world/</id>
     <published>2020-05-07T18:53:50.378Z</published>
     <updated>2020-05-07T18:53:50.378Z</updated>
     
