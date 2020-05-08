@@ -5,9 +5,9 @@
   <subtitle>bilibili</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="bilibili.cn/"/>
+  <link href="ikorz.com/"/>
   <updated>2020-05-07T18:53:50.378Z</updated>
-  <id>bilibili.cn/</id>
+  <id>ikorz.com/</id>
   
   <author>
     <name>74楼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="bilibili.cn/2020/05/08/hello-world/"/>
-    <id>bilibili.cn/2020/05/08/hello-world/</id>
+    <link href="ikorz.com/2020/05/08/hello-world/"/>
+    <id>ikorz.com/2020/05/08/hello-world/</id>
     <published>2020-05-07T18:53:50.378Z</published>
     <updated>2020-05-07T18:53:50.378Z</updated>
     
